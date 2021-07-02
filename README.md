@@ -1,6 +1,7 @@
 # Day 1 of being a JavaScripting English Major
 
 Blah blah Blah
+sdfkja;lsdfkjal;sdfjk;s
 
 Hopefully, you are a student in the course, [*The JavaScripting English
 Major*](http://the-javascripting-english-major.org), in which case you
